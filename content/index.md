@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Nunte's Blog
 ---
+Hola, soy Nunte. Este va a ser mi blog.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Puedes mirar en la barra lateral las publicaciones.
