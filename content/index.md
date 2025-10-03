@@ -1,5 +1,6 @@
 ---
 title: Nunte's Blog
+comments: false
 ---
 Hola, soy Nunte. Este va a ser mi blog.
 ## Proyectos:
