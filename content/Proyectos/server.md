@@ -13,7 +13,7 @@ No quería depender de Google ni de nubes ajenas: solo un sitio donde guardar fo
 ## La idea
 Empezó como una prueba: revivir un PC viejo, instalar una distro ligera y ver cuánto era capaz de aguantar. Era un **Lenovo ThinkCentre M91 UFF** (de los cuales tenia otro exactamente igual por diversas causas que no llegué a usar en este proyecto) cuyas especificaciones podéis leer [aquí](https://www.pc-portatil.com/pub.shop/ordenadores-segunda-mano/Lenovo-Thinkcentre-M91-USFF-Core-i3-2100-5714.html?srsltid=AfmBOookAnO6jX_y_w3LmiERkyjx97dSunrODifKGZrTK7J-a4HfVKUM). Al llevarlo a mi habitación vi que no tenía espacio donde ponerlo, así que decidí montarlo en el armario. No fue ni mucho menos fácil al principio porque todo estaba lleno de cajas y otras cosas que me impedían colocarlo todo como a mí me gustaba. Días después hice una limpieza y el setup se terminó viendo mucho más limpio.
 
-![Una foto del ordenador por dentro.](../media/server.interior.jpg)
+<img src="../media/server.interior.jpg" alt="Una foto del ordenador por dentro." width="1224" height="1632">
 
 Al principio **ni siquiera sabía** qué iba a hacer con el ordenador. Solo quería ponerle Linux y ver que tenía para ofrecer. Días después me enteré de lo que era **[Immich](https://immich.app)**, un proyecto de [código abierto](https://github.com/immich-app/immich) que busca dejar atrás todas estas plataformas para subir fotos para poder hostear la tuya propia. Me sorprendió que tenía muchísimas funciones, desde hacer álbums o mostrar las ubicaciones en un mapa hasta poder crear varios perfiles para todos los miembros de la casa.
 
@@ -29,7 +29,7 @@ No todo fue un camino de rosas a la hora de poner a funcionar esta piedra de ord
 ## El resultado final
 A partir de eso, poco más había que pudiese hacerle al ordenador. Me di cuenta de que iba un poco falto de RAM, así que a fecha de escribir esto estoy planteándome comprar dos RAM sticks de 8 GB para poder aprovechar el máximo que soporta el equipo y que así el procesamiento de fotos fuese más rápido y, por supuesto, con menos riesgos de que todo explote.
 
-![Una foto del setup final dentro del armario](../media/server.exterior.jpg)
+<img src="../media/server.exterior.jpg" alt="Una foto del setup final dentro del armario" width="1125" height="1500">
 
 También decidí mover el ordenador a la estantería de encima para que estuviese más cerca de los periféricos, lo que también me permitió meter el alargador en la primera estantería, haciendo que ahora la puerta del armario cierre casi por completo y apenas se note. Y por si te lo estás preguntando, el calor del ordenador no es casi notable dentro del armario, por lo que tener la puerta del cerrada no influye demasiado en la refrigeración.
 
